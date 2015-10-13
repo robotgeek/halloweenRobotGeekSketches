@@ -38,13 +38,14 @@
  *    - this is great for surprising people who know there is a system/mat
  *    
  *    This code will activate 3 digitial pins (4/7/8). If you are not using the second and third pins, you can still
- *    use this code without modification, just don't hook up anything. If you need those 2 pins for ther purposes
+ *    use this code without modification, just don't hook up anything. If you need those 2 pins for other purposes
  *    remove the applicable code in the setup and loop functions (see comments)
  *
  *  This code is a Work In Progress and is distributed in the hope that it will be useful,
  *  but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or 
  *  FITNESS FOR A PARTICULAR PURPOSE.  See the GNU Lesser General Public License for more details.
  *   
+ * ASCII Art from http://www.chris.com/ascii/joan/www.geocities.com/SoHo/7373/haloween.html
  ***********************************************************************************/
  
 //Pin numbers for Digital I/O 
